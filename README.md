@@ -38,5 +38,5 @@
 <br>
 
 
-<img align="left" alt="medium" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={tds455}&theme=vue" />
+<img align="left" alt="medium" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tds455&theme=vue" />
 
