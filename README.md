@@ -1,6 +1,16 @@
-# tds455
+# Hi, I'm Tom
 
-## My skills 
+I am a self-taught developer based out of Hyogo, Japan.
+I have 7 years experience working in IT and am currently looking for opportunities in software and web development.
+
+Please feel free to get in touch on any of my socials!
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tds455/)](https://www.linkedin.com/in/tds455/)
+
+
+# Projects
+
+# My skills 
 
 ## Languages:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
