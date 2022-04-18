@@ -1,5 +1,7 @@
 # tds455
- 
+
+## My skills 
+
 ## Languages:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -29,11 +31,9 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 <br>
 
-## Currently creating projects in:
+## Currently learning:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <br>
 
 
-<img align="left" alt="medium" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tds455&theme=vue" />
-<img align="right" alt="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tds455" />
