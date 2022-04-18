@@ -7,7 +7,7 @@ Please feel free to get in touch on any of my socials!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tds455/)](https://www.linkedin.com/in/tds455/)
 [![Outlook Badge](https://img.shields.io/badge/Mail-0078D4?style=flate&logo=microsoft-outlook&logoColor=white&link=mailto:tds-1993@outlook.com)](mailto:tds-1993@outlook.com)
-[![Outlook Badge](https://img.shields.io/badge/Portfolio-000000?style=flate&logo=About.me&logoColor=white)](https://tshaw.me)
+[![Outlook Badge](https://img.shields.io/badge/Portfolio-0078D4?style=flate&logo=About.me&logoColor=white)](https://tshaw.me)
 
 
 # Projects
