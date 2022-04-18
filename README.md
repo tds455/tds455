@@ -12,7 +12,7 @@ Please feel free to get in touch on any of my socials!
 
 # Projects
 
-Capstone / Trivia:  My final project for CS50W.
+[Capstone / Trivia](https://github.com/tds455/Capstone):  My final project for CS50W. <br>
 A demo can be found at https://www.tshaw.me
 
 # My skills 
