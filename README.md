@@ -12,8 +12,14 @@ Please feel free to get in touch on any of my socials!
 
 # Projects
 
-[Capstone / Trivia](https://github.com/tds455/Capstone):  My final project for CS50W. <br>
+#### CS50W final project
+[Capstone / Trivia](https://github.com/tds455/Capstone):  My final project for CS50W. <br>  A trivia web app built with Django and JavaScript.
 A demo can be found at https://www.tshaw.me
+
+#### Other CS50W projects
+[Mail](https://github.com/tds455/Mail) - An internal mail app built to demonstrate Django API functionality and reactive JavaScript design.
+[DjangoWiki](https://github.com/tds455/DjangoWiki) - A wiki served by Django which allows pages to be created and edited using Markdown syntax.
+[Commerce](https://github.com/tds455/Commerce) - An ecommerce site built in Django.
 
 # My skills 
 
