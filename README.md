@@ -13,7 +13,7 @@ Please feel free to get in touch on any of my socials!
 # Projects
 
 #### CS50W final project
-[Capstone / Trivia](https://github.com/tds455/Capstone):  My final project for CS50W. <br>  A trivia web app built with Django and JavaScript.<br>
+[Capstone / Trivia](https://github.com/tds455/Capstone-Trivia):  My final project for CS50W. <br>  A trivia web app built with Django and JavaScript.<br>
 A demo can be found at https://www.tshaw.me
 
 #### Other CS50W projects
