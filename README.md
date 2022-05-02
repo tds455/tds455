@@ -1,7 +1,7 @@
 # Hi, I'm Tom
 
 I am a self-taught developer based out of Hyogo, Japan.
-I have 7 years experience working in IT and am currently looking for opportunities in web and backend development, network and technical support and cloud engineering. 
+I have 7 years experience working in IT and am currently looking for opportunities in cloud engineering, network / technical support and web / backend development. 
 
 Please feel free to get in touch on any of my socials!
 
