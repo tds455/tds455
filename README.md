@@ -12,7 +12,10 @@ Please feel free to get in touch on any of my socials!
 
 # Projects
 
-#### CS50W final project
+#### GraphQL Timeclock
+[Timeclock](https://github.com/tds455/GraphQL-Django-Timeclock): Employee GraphQL timeclock built in Django using Graphene.  Available queries are included in the Readme.
+
+#### Trivia (CS50W Final Project)
 [Capstone / Trivia](https://github.com/tds455/Capstone-Trivia):  My final project for CS50W. <br>  A trivia web app built with Django and JavaScript.<br>
 A demo can be found at https://tshaw.me
 
@@ -32,6 +35,7 @@ A demo can be found at https://tshaw.me
 ## Frameworks:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <br>
 
 ## Databases:
