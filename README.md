@@ -1,8 +1,6 @@
 # Hi, I'm Tom
 
-I'm an IT professional based out of Hyogo, Japan.
-
-Please feel free to get in touch on any of my socials!
+I'm an IT professional based out of Hyogo, Japan with experience across hardware, infrastructure, support and development.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tds455/)](https://www.linkedin.com/in/tds455/)
 [![Outlook Badge](https://img.shields.io/badge/Mail-0077B5?style=flate&logo=microsoft-outlook&logoColor=white&link=mailto:tds-1993@outlook.com)](mailto:tds-1993@outlook.com)
@@ -56,9 +54,6 @@ A demo can be found at https://tshaw.me
 <img align="left" alt="medium" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 <br>
-
-## Currently learning:
-
 
 <br>
 
