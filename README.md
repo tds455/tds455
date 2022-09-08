@@ -1,7 +1,6 @@
 # Hi, I'm Tom
 
-I am a self-taught developer and technician based out of Hyogo, Japan with 7 years experience in hardware, network, infrastructure and support roles.
-Currently looking for opportunities in cloud engineering / hardware, network / technical support and web / backend development. 
+I'm an IT professional based out of Hyogo, Japan.
 
 Please feel free to get in touch on any of my socials!
 
@@ -27,12 +26,14 @@ A demo can be found at https://tshaw.me
 # My skills 
 
 ## Languages:
+<img align="left" alt="medium" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <br>
 
 ## Frameworks:
+<img align="left" alt="medium" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
@@ -57,8 +58,8 @@ A demo can be found at https://tshaw.me
 <br>
 
 ## Currently learning:
-<img align="left" alt="medium" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+
+
 <br>
 
 
