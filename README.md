@@ -15,7 +15,7 @@ I'm an IT professional based out of Hyogo, Japan with experience across hardware
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <br>
 
-## Frameworks:
+## Frameworks and Libraries:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
