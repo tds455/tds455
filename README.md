@@ -6,21 +6,6 @@ I'm an IT professional based out of Hyogo, Japan with experience across hardware
 [![Outlook Badge](https://img.shields.io/badge/Mail-0077B5?style=flate&logo=microsoft-outlook&logoColor=white&link=mailto:tds-1993@outlook.com)](mailto:tds-1993@outlook.com)
 [![Outlook Badge](https://img.shields.io/badge/Portfolio-0077B5?style=flate&logo=About.me&logoColor=white)](https://tshaw.me)
 
-
-# Projects
-
-#### GraphQL Timeclock
-[Timeclock](https://github.com/tds455/GraphQL-Django-Timeclock): Employee GraphQL timeclock built in Django using Graphene.  Available queries are included in the Readme.
-
-#### Trivia (CS50W Final Project)
-[Capstone / Trivia](https://github.com/tds455/Capstone-Trivia):  My final project for CS50W. <br>  A trivia web app built with Django and JavaScript.<br>
-A demo can be found at https://tshaw.me
-
-#### Other CS50W projects
-[Mail](https://github.com/tds455/Mail) - An internal mail app built to demonstrate Django API functionality and reactive JavaScript design.<br>
-[DjangoWiki](https://github.com/tds455/DjangoWiki) - A wiki served by Django which allows pages to be created and edited using Markdown syntax.<br>
-[Commerce](https://github.com/tds455/Commerce) - An ecommerce site built in Django.<br>
-
 # My skills 
 
 ## Languages:
