@@ -1,6 +1,6 @@
 # Hi, I'm Tom
 
-I'm an IT professional based out of Hyogo, Japan with experience across hardware, infrastructure, support and development.
+Platform Support, SRE, Cloud Support
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tds455/)](https://www.linkedin.com/in/tds455/)
 [![Outlook Badge](https://img.shields.io/badge/Mail-0077B5?style=flate&logo=microsoft-outlook&logoColor=white&link=mailto:tds-1993@outlook.com)](mailto:tds-1993@outlook.com)
