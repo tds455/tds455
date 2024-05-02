@@ -1,6 +1,6 @@
 # Hi, I'm Tom
 
-Platform Support, SRE, Cloud Support
+Platform Support, Technical Support, C
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tds455/)](https://www.linkedin.com/in/tds455/)
 [![Outlook Badge](https://img.shields.io/badge/Mail-0077B5?style=flate&logo=microsoft-outlook&logoColor=white&link=mailto:tds-1993@outlook.com)](mailto:tds-1993@outlook.com)
@@ -9,9 +9,7 @@ Platform Support, SRE, Cloud Support
 # My skills 
 
 ## Languages:
-<img align="left" alt="medium" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <br>
 
@@ -23,6 +21,7 @@ Platform Support, SRE, Cloud Support
 <br>
 
 ## Databases:
+<img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <br>
